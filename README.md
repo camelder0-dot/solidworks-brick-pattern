@@ -22,6 +22,8 @@ The result is ordinary **Cut-Extrude** features in the FeatureManager tree
 (`Brick Mortar Rows` + `Brick Mortar Joints`, or `Brick Pockets`).
 Double-click one to change the depth afterward, or delete it to start over.
 
+**[⬇ Download BrickPattern.bas](https://github.com/camelder0-dot/solidworks-brick-pattern/raw/main/BrickPattern.bas)** (right-click → Save link as… if it opens as text)
+
 ## Install (one time)
 
 1. In SOLIDWORKS, go to **Tools → Macro → New…** and save it as `BrickPattern.swp`.
